@@ -1,0 +1,9 @@
+Building GCBCOIN
+
+See doc/readme-qt.rst for instructions on building GCBCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GCBCOIN.
+
+See doc/build-*.txt for instructions on building GCBCOINd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GCBCOIN.
